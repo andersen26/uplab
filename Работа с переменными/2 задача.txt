@@ -1,0 +1,4 @@
+Переменная для названия нашей планеты:
+let PlanetNamewherethereislife = "Земля";
+Имя текущего посетителя:
+let UserName = "Андрей";
